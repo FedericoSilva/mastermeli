@@ -1,8 +1,12 @@
 # mastermeli
 Práctico Git - IT Academy 2019
 
+| Nombre | userGit |
+| Matias Brond | MatiBrond |
+| Juan Filardo | juanifilardo |  
 
-Comandos utilizados en el commit inicial:
+
+Comandos utilizados:
 
 1- git clone https://github.com/FedericoSilva/mastermeli.git
 2- git status
@@ -17,5 +21,11 @@ Comandos utilizados en el commit inicial:
 11- git status
 12- git pull
 13- git add *
-14- git commit -m "Añado el gitignore, con los datos personales ocultos"
-15- git push
+14- git add .gitignore
+15- git commit -m "Añado el gitignore, con los datos personales ocultos"
+16- git push
+17-touch datos01.txt
+18- git tag -a V.0.1 -m "Primera version del repositorio con gitignore y el readme actualizado"
+19- git commit -m "Añadir datos01.txt, tag: V.0.1"
+20- git push
+
