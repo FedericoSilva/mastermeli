@@ -2,6 +2,7 @@
 Práctico Git - IT Academy 2019
 
 | Nombre | userGit |
+| ------ | ------- |
 | Matias Brond | MatiBrond |
 | Juan Filardo | juanifilardo |  
 
