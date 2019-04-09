@@ -55,3 +55,6 @@ Comandos utilizados:
 44- git add *
 45- git commit -m "Merge resuelto"
 46- git push
+47- git tag -a "V.0.2" -m "V.0.2 correcta"
+48- git push origin --delete V.0.2
+49- git log
